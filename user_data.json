@@ -1,0 +1,708 @@
+{
+	"users": [
+		{
+			"userId": 1,
+			"userName": "",
+			"age": 0,
+			"gender": "",
+			"email": "",
+			"id": "",
+			"password": "",
+			"shoesSizes": {
+				"nike": 240.0,
+				"adidas": 235.0,
+				"newBalance": 240.0,
+				"vans": 240.0,
+				"converse": 240.0
+			}
+		},
+		{
+			"userId": 2,
+			"userName": "",
+			"age": 0,
+			"gender": "",
+			"email": "",
+			"id": "",
+			"password": "",
+			"shoesSizes": {
+				"nike": 275.0,
+				"adidas": null,
+				"newBalance": 275.0,
+				"vans": null,
+				"converse": 275.0
+			}
+		},
+		{
+			"userId": 3,
+			"userName": "",
+			"age": 0,
+			"gender": "",
+			"email": "",
+			"id": "",
+			"password": "",
+			"shoesSizes": {
+				"nike": 265.0,
+				"adidas": null,
+				"newBalance": null,
+				"vans": null,
+				"converse": 265.0
+			}
+		},
+		{
+			"userId": 4,
+			"userName": "",
+			"age": 0,
+			"gender": "",
+			"email": "",
+			"id": "",
+			"password": "",
+			"shoesSizes": {
+				"nike": 225.0,
+				"adidas": 220.0,
+				"newBalance": 230.0,
+				"vans": 200.0,
+				"converse": 210.0
+			}
+		},
+		{
+			"userId": 5,
+			"userName": "",
+			"age": 0,
+			"gender": "",
+			"email": "",
+			"id": "",
+			"password": "",
+			"shoesSizes": {
+				"nike": 245.0,
+				"adidas": 240.0,
+				"newBalance": 240.0,
+				"vans": 240.0,
+				"converse": 245.0
+			}
+		},
+		{
+			"userId": 6,
+			"userName": "",
+			"age": 0,
+			"gender": "",
+			"email": "",
+			"id": "",
+			"password": "",
+			"shoesSizes": {
+				"nike": 280.0,
+				"adidas": 275.0,
+				"newBalance": null,
+				"vans": 275.0,
+				"converse": 275.0
+			}
+		},
+		{
+			"userId": 7,
+			"userName": "",
+			"age": 0,
+			"gender": "",
+			"email": "",
+			"id": "",
+			"password": "",
+			"shoesSizes": {
+				"nike": 230.0,
+				"adidas": null,
+				"newBalance": 225.0,
+				"vans": 225.0,
+				"converse": 235.0
+			}
+		},
+		{
+			"userId": 8,
+			"userName": "",
+			"age": 0,
+			"gender": "",
+			"email": "",
+			"id": "",
+			"password": "",
+			"shoesSizes": {
+				"nike": 265.0,
+				"adidas": 270.0,
+				"newBalance": 265.0,
+				"vans": 270.0,
+				"converse": 265.0
+			}
+		},
+		{
+			"userId": 9,
+			"userName": "",
+			"age": 0,
+			"gender": "",
+			"email": "",
+			"id": "",
+			"password": "",
+			"shoesSizes": {
+				"nike": 250.0,
+				"adidas": 245.0,
+				"newBalance": 250.0,
+				"vans": 250.0,
+				"converse": null
+			}
+		},
+		{
+			"userId": 10,
+			"userName": "",
+			"age": 0,
+			"gender": "",
+			"email": "",
+			"id": "",
+			"password": "",
+			"shoesSizes": {
+				"nike": null,
+				"adidas": 270.0,
+				"newBalance": null,
+				"vans": 280.0,
+				"converse": null
+			}
+		},
+		{
+			"userId": 11,
+			"userName": "",
+			"age": 0,
+			"gender": "",
+			"email": "",
+			"id": "",
+			"password": "",
+			"shoesSizes": {
+				"nike": null,
+				"adidas": 265.0,
+				"newBalance": null,
+				"vans": 265.0,
+				"converse": 265.0
+			}
+		},
+		{
+			"userId": 12,
+			"userName": "",
+			"age": 0,
+			"gender": "",
+			"email": "",
+			"id": "",
+			"password": "",
+			"shoesSizes": {
+				"nike": 255.0,
+				"adidas": 255.0,
+				"newBalance": null,
+				"vans": 260.0,
+				"converse": 260.0
+			}
+		},
+		{
+			"userId": 13,
+			"userName": "",
+			"age": 0,
+			"gender": "",
+			"email": "",
+			"id": "",
+			"password": "",
+			"shoesSizes": {
+				"nike": 245.0,
+				"adidas": 250.0,
+				"newBalance": null,
+				"vans": 245.0,
+				"converse": null
+			}
+		},
+		{
+			"userId": 14,
+			"userName": "",
+			"age": 0,
+			"gender": "",
+			"email": "",
+			"id": "",
+			"password": "",
+			"shoesSizes": {
+				"nike": 275.0,
+				"adidas": null,
+				"newBalance": 275.0,
+				"vans": null,
+				"converse": 275.0
+			}
+		},
+		{
+			"userId": 15,
+			"userName": "",
+			"age": 0,
+			"gender": "",
+			"email": "",
+			"id": "",
+			"password": "",
+			"shoesSizes": {
+				"nike": null,
+				"adidas": 240.0,
+				"newBalance": null,
+				"vans": 240.0,
+				"converse": 235.0
+			}
+		},
+		{
+			"userId": 16,
+			"userName": "",
+			"age": 0,
+			"gender": "",
+			"email": "",
+			"id": "",
+			"password": "",
+			"shoesSizes": {
+				"nike": 270.0,
+				"adidas": null,
+				"newBalance": null,
+				"vans": 270.0,
+				"converse": 270.0
+			}
+		},
+		{
+			"userId": 17,
+			"userName": "",
+			"age": 0,
+			"gender": "",
+			"email": "",
+			"id": "",
+			"password": "",
+			"shoesSizes": {
+				"nike": 235.0,
+				"adidas": 235.0,
+				"newBalance": 235.0,
+				"vans": 240.0,
+				"converse": 235.0
+			}
+		},
+		{
+			"userId": 18,
+			"userName": "",
+			"age": 0,
+			"gender": "",
+			"email": "",
+			"id": "",
+			"password": "",
+			"shoesSizes": {
+				"nike": 220.0,
+				"adidas": 230.0,
+				"newBalance": 220.0,
+				"vans": 230.0,
+				"converse": 230.0
+			}
+		},
+		{
+			"userId": 19,
+			"userName": "",
+			"age": 0,
+			"gender": "",
+			"email": "",
+			"id": "",
+			"password": "",
+			"shoesSizes": {
+				"nike": 260.0,
+				"adidas": null,
+				"newBalance": 265.0,
+				"vans": null,
+				"converse": null
+			}
+		},
+		{
+			"userId": 20,
+			"userName": "",
+			"age": 0,
+			"gender": "",
+			"email": "",
+			"id": "",
+			"password": "",
+			"shoesSizes": {
+				"nike": 230.0,
+				"adidas": 235.0,
+				"newBalance": null,
+				"vans": 240.0,
+				"converse": 230.0
+			}
+		},
+		{
+			"userId": 21,
+			"userName": "",
+			"age": 0,
+			"gender": "",
+			"email": "",
+			"id": "",
+			"password": "",
+			"shoesSizes": {
+				"nike": 230.0,
+				"adidas": 230.0,
+				"newBalance": null,
+				"vans": 230.0,
+				"converse": 230.0
+			}
+		},
+		{
+			"userId": 22,
+			"userName": "",
+			"age": 0,
+			"gender": "",
+			"email": "",
+			"id": "",
+			"password": "",
+			"shoesSizes": {
+				"nike": 250.0,
+				"adidas": 245.0,
+				"newBalance": 245.0,
+				"vans": 245.0,
+				"converse": 245.0
+			}
+		},
+		{
+			"userId": 23,
+			"userName": "",
+			"age": 0,
+			"gender": "",
+			"email": "",
+			"id": "",
+			"password": "",
+			"shoesSizes": {
+				"nike": 250.0,
+				"adidas": 245.0,
+				"newBalance": 245.0,
+				"vans": 245.0,
+				"converse": 250.0
+			}
+		},
+		{
+			"userId": 24,
+			"userName": "",
+			"age": 0,
+			"gender": "",
+			"email": "",
+			"id": "",
+			"password": "",
+			"shoesSizes": {
+				"nike": 240.0,
+				"adidas": null,
+				"newBalance": null,
+				"vans": null,
+				"converse": 240.0
+			}
+		},
+		{
+			"userId": 25,
+			"userName": "",
+			"age": 0,
+			"gender": "",
+			"email": "",
+			"id": "",
+			"password": "",
+			"shoesSizes": {
+				"nike": 240.0,
+				"adidas": 240.0,
+				"newBalance": 235.0,
+				"vans": null,
+				"converse": null
+			}
+		},
+		{
+			"userId": 26,
+			"userName": "",
+			"age": 0,
+			"gender": "",
+			"email": "",
+			"id": "",
+			"password": "",
+			"shoesSizes": {
+				"nike": 230.0,
+				"adidas": 225.0,
+				"newBalance": 230.0,
+				"vans": 225.0,
+				"converse": null
+			}
+		},
+		{
+			"userId": 27,
+			"userName": "",
+			"age": 0,
+			"gender": "",
+			"email": "",
+			"id": "",
+			"password": "",
+			"shoesSizes": {
+				"nike": 230.0,
+				"adidas": 230.0,
+				"newBalance": null,
+				"vans": 225.0,
+				"converse": 230.0
+			}
+		},
+		{
+			"userId": 28,
+			"userName": "",
+			"age": 0,
+			"gender": "",
+			"email": "",
+			"id": "",
+			"password": "",
+			"shoesSizes": {
+				"nike": 225.0,
+				"adidas": 230.0,
+				"newBalance": 230.0,
+				"vans": 220.0,
+				"converse": 230.0
+			}
+		},
+		{
+			"userId": 29,
+			"userName": "",
+			"age": 0,
+			"gender": "",
+			"email": "",
+			"id": "",
+			"password": "",
+			"shoesSizes": {
+				"nike": 300.0,
+				"adidas": 300.0,
+				"newBalance": 290.0,
+				"vans": null,
+				"converse": 300.0
+			}
+		},
+		{
+			"userId": 30,
+			"userName": "",
+			"age": 0,
+			"gender": "",
+			"email": "",
+			"id": "",
+			"password": "",
+			"shoesSizes": {
+				"nike": 245.0,
+				"adidas": 245.0,
+				"newBalance": 245.0,
+				"vans": 250.0,
+				"converse": 250.0
+			}
+		},
+		{
+			"userId": 31,
+			"userName": "",
+			"age": 0,
+			"gender": "",
+			"email": "",
+			"id": "",
+			"password": "",
+			"shoesSizes": {
+				"nike": 240.0,
+				"adidas": null,
+				"newBalance": 240.0,
+				"vans": null,
+				"converse": 240.0
+			}
+		},
+		{
+			"userId": 32,
+			"userName": "",
+			"age": 0,
+			"gender": "",
+			"email": "",
+			"id": "",
+			"password": "",
+			"shoesSizes": {
+				"nike": 250.0,
+				"adidas": 245.0,
+				"newBalance": null,
+				"vans": 245.0,
+				"converse": 250.0
+			}
+		},
+		{
+			"userId": 33,
+			"userName": "",
+			"age": 0,
+			"gender": "",
+			"email": "",
+			"id": "",
+			"password": "",
+			"shoesSizes": {
+				"nike": 265.0,
+				"adidas": 265.0,
+				"newBalance": null,
+				"vans": 270.0,
+				"converse": 275.0
+			}
+		},
+		{
+			"userId": 34,
+			"userName": "",
+			"age": 0,
+			"gender": "",
+			"email": "",
+			"id": "",
+			"password": "",
+			"shoesSizes": {
+				"nike": 265.0,
+				"adidas": 260.0,
+				"newBalance": 270.0,
+				"vans": 270.0,
+				"converse": null
+			}
+		},
+		{
+			"userId": 35,
+			"userName": "",
+			"age": 0,
+			"gender": "",
+			"email": "",
+			"id": "",
+			"password": "",
+			"shoesSizes": {
+				"nike": 280.0,
+				"adidas": 280.0,
+				"newBalance": 280.0,
+				"vans": null,
+				"converse": 280.0
+			}
+		},
+		{
+			"userId": 36,
+			"userName": "",
+			"age": 0,
+			"gender": "",
+			"email": "",
+			"id": "",
+			"password": "",
+			"shoesSizes": {
+				"nike": 270.0,
+				"adidas": 270.0,
+				"newBalance": 270.0,
+				"vans": null,
+				"converse": null
+			}
+		},
+		{
+			"userId": 37,
+			"userName": "",
+			"age": 0,
+			"gender": "",
+			"email": "",
+			"id": "",
+			"password": "",
+			"shoesSizes": {
+				"nike": 270.0,
+				"adidas": null,
+				"newBalance": null,
+				"vans": null,
+				"converse": 270.0
+			}
+		},
+		{
+			"userId": 38,
+			"userName": "",
+			"age": 0,
+			"gender": "",
+			"email": "",
+			"id": "",
+			"password": "",
+			"shoesSizes": {
+				"nike": 270.0,
+				"adidas": null,
+				"newBalance": null,
+				"vans": null,
+				"converse": null
+			}
+		},
+		{
+			"userId": 39,
+			"userName": "",
+			"age": 0,
+			"gender": "",
+			"email": "",
+			"id": "",
+			"password": "",
+			"shoesSizes": {
+				"nike": 235.0,
+				"adidas": null,
+				"newBalance": null,
+				"vans": 240.0,
+				"converse": null
+			}
+		},
+		{
+			"userId": 40,
+			"userName": "",
+			"age": 0,
+			"gender": "",
+			"email": "",
+			"id": "",
+			"password": "",
+			"shoesSizes": {
+				"nike": 250.0,
+				"adidas": null,
+				"newBalance": null,
+				"vans": null,
+				"converse": null
+			}
+		},
+		{
+			"userId": 41,
+			"userName": "",
+			"age": 0,
+			"gender": "",
+			"email": "",
+			"id": "",
+			"password": "",
+			"shoesSizes": {
+				"nike": 270.0,
+				"adidas": null,
+				"newBalance": null,
+				"vans": null,
+				"converse": null
+			}
+		},
+		{
+			"userId": 42,
+			"userName": "",
+			"age": 0,
+			"gender": "",
+			"email": "",
+			"id": "",
+			"password": "",
+			"shoesSizes": {
+				"nike": 275.0,
+				"adidas": 270.0,
+				"newBalance": null,
+				"vans": null,
+				"converse": null
+			}
+		},
+		{
+			"userId": 43,
+			"userName": "",
+			"age": 0,
+			"gender": "",
+			"email": "",
+			"id": "",
+			"password": "",
+			"shoesSizes": {
+				"nike": null,
+				"adidas": 250.0,
+				"newBalance": null,
+				"vans": null,
+				"converse": null
+			}
+		},
+		{
+			"userId": 44,
+			"userName": "",
+			"age": 0,
+			"gender": "",
+			"email": "",
+			"id": "",
+			"password": "",
+			"shoesSizes": {
+				"nike": 250.0,
+				"adidas": null,
+				"newBalance": null,
+				"vans": null,
+				"converse": null
+			}
+		}
+	]
+}
