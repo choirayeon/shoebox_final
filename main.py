@@ -6,7 +6,7 @@ import uvicorn
 from fastapi.security import OAuth2PasswordBearer
 from fastapi_login.exceptions import InvalidCredentialsException
 from pymongo import MongoClient
-from Shoebox import rs_system
+from shoebox import rs_system
 
 # from pydantic import BaseModel
 import pydantic
@@ -31,7 +31,8 @@ async def login(user: UserLogin):
     db_user = mongo.load_user_id(user_id) 
     if db_user is None or not mongo.verify_password(user_password, db_user['password']):
         raise HTTPException(status_code=400, detail='Invalid username or password')
-    return {'message: User successfully logged in'}
+    return  db_user['userId']
+    
     # return {'access_token': user_id, 'token_type': 'bearer'}
 
 @app.post('/signup', status_code=201)
@@ -50,14 +51,17 @@ async def load_userId(user_id: int):
 
 @app.post('/review/')
 async def review(id: int, brand: str, size: int):
-    return mongo.update_size(id=id, brand=brand, size=size)
+    mongo.update_size(id=id, brand=brand, size=size)
+    return {
+        "message": "Size successfully updated"
+    }
 
 @app.post('/user/recom/')
 async def size_recommend(id:int, brand: str):
     data = mongo.load_user()
     size = rs_system(data, id, brand)
     mongo.update_size(id=id, brand=brand, size=size)
-    return rs_system(data, id, brand)
+    return size
 
 if __name__ == '__main__':
     uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True)

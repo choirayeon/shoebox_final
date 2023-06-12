@@ -25,7 +25,6 @@ def recommend_sizes(df_svd_preds, user_id, brands):
 
 def rs_system(data, user, brand):
     rs_data = data_loader(data)
-    print(rs_data)
     
     m = rs_data.mean(axis=1)
     for i, col in enumerate(rs_data):
