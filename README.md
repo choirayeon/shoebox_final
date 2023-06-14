@@ -29,7 +29,7 @@
 1. 사용자가 원하는 브랜드를 선택하여 사이즈를 추천 받을 수 있도록 도와주는 "사이즈 추천 기능 제공"
 2. 직접 경로를 설계하고 싶은 경우 카테고리별 관광지, 음식점, 숙소, 쇼핑 등을 보여주어 직접 경로를 설계할 수 있도록 도와주는 "자기주도적 경로 설계 기능 제공"
 <p align="center">
- 
+  [image](https://github.com/choirayeon/shoebox_final/assets/131142431/ae3a0af4-ecaa-44a2-9bbc-6b59f986eee2)
  <br />
  <br />
 
