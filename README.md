@@ -28,7 +28,7 @@
 ## 📌 서비스 기능
 - 사용자가 원하는 브랜드를 선택하여 사이즈를 추천 받을 수 있도록 도와주는 "사이즈 추천 기능 제공"
 <p align="center">
-  <img src : "https://github.com/choirayeon/shoebox_final/blob/main/1.png" width="800px />
+  <img width="800px img src :"https://github.com/choirayeon/shoebox_final/blob/main/1.png" />
  <br />
  <br />
 
