@@ -43,11 +43,18 @@
   <img src = "https://github.com/choirayeon/shoebox_final/blob/main/2.png" width="800px"/>
   <img src = "https://github.com/choirayeon/shoebox_final/blob/main/3.png" width="800px"/>
   <img src = "https://github.com/choirayeon/shoebox_final/blob/main/4.png" width="800px"/>
+</p>
+ 
  <br />
  <br />
 
 ## 📝 서비스 흐름도
 <p align="center">
- 
-<br />
-<br />
+   <img src = width="800px"/>
+   <img src = width="800px"/>
+   <img src = width="800px"/>
+   <img src = width="800px"/>
+   <img src = width="800px"/>
+</p>
+ <br />
+ <br />
