@@ -43,7 +43,7 @@
    <img src = "https://github.com/choirayeon/shoebox_final/blob/main/6.png" width="800px"/>
    <img src = "https://github.com/choirayeon/shoebox_final/blob/main/7.png" width="800px"/>
    <img src = "https://github.com/choirayeon/shoebox_final/blob/main/8.png" width="800px"/>
-   <img src = "https://github.com/choirayeon/shoebox_final/blob/main/8.png" width="800px"/>
+   <img src = "https://github.com/choirayeon/shoebox_final/commit/e40df12dd6d813d8d2266d6a032323f049768ef5" width="800px"/>
 </p>
  <br />
  <br />
