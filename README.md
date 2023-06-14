@@ -16,7 +16,7 @@
  <br />
  <br />
 
-## 👩 사용자 👨
+## 👩 사용자 
 - 온라인에서 자주 신발을 구매하는 사용자
 - 신발 구매 시 사이즈로 인한 환불, 교환 등의 이슈가 잦은 사용자
 - 새로운 브랜드의 신발 구매 시 사이즈를 몰라 본인에게 맞는 사이즈를 알고 싶은 사용자
@@ -26,9 +26,18 @@
  <br />
  
 ## 📌 서비스 기능
-1. 사용자가 원하는 브랜드를 선택하여 사이즈를 추천 받을 수 있도록 도와주는 "사이즈 추천 기능 제공"
+- 사용자가 원하는 브랜드를 선택하여 사이즈를 추천 받을 수 있도록 도와주는 "사이즈 추천 기능 제공"
 <p align="center">
   <img src : "https://github.com/choirayeon/shoebox_final/blob/main/1.png" width="800px />
+ <br />
+ <br />
+
+## 🤖 서비스 개발
+1.Data Flow Diagram
+2.User Flow Diagram
+3.User Flow Diagram(Recommend Flow Diagram)
+<p align="center">
+
  <br />
  <br />
 
